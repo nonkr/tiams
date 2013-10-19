@@ -35,9 +35,9 @@
 
 <script type="text/javascript" src="<%=basePath%>/jslib/jquery.actual.js" charset="utf-8"></script>
 
-<link rel="stylesheet" href="<%=basePath%>/jslib/uniform/themes/default/css/uniform.default.min.css" type="text/css"></link>
+<link rel="stylesheet" href="<%=basePath%>/jslib/uniform/themes/default/css/uniform.default.min.css" type="text/css" />
 <script type="text/javascript" src="<%=basePath%>/jslib/uniform/jquery.uniform.min.js" charset="utf-8"></script>
 
 <script type="text/javascript" src="<%=basePath%>/jslib/nonkrj4easyui.js" charset="utf-8"></script>
 
-<link rel="stylesheet" href="<%=basePath%>/css/main.css" type="text/css"></link>
+<link rel="stylesheet" href="<%=basePath%>/css/main.css" type="text/css" />
